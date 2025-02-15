@@ -1,1 +1,1 @@
-nginx:1.24.7-alpine
+nginx:1.24.7
